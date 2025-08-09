@@ -1,4 +1,4 @@
-# rss reader
+# Notes reader (markdown notes)
 
 1. Clone [https://github.com/adrianensis/static-site](https://github.com/adrianensis/static-site) repo in project root folder
    1. `git clone git@github.com:adrianensis/static-site.git`
