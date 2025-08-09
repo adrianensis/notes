@@ -1,0 +1,96 @@
+{
+    "paths": {
+        "GameDev": {
+            "Game Design": {
+                "files": [
+                    "Game Design.md"
+                ]
+            },
+            "Marketing": {
+                "files": [
+                    "Publishers.md",
+                    "Crowdfunding.md",
+                    "Industry State.md",
+                    "Marketing.md",
+                    "Analytics.md"
+                ]
+            },
+            "Tech": {
+                "AI": {
+                    "files": [
+                        "NavMesh.md",
+                        "AI.md"
+                    ]
+                },
+                "Graphics": {
+                    "files": [
+                        "PBR.md",
+                        "PS1 Style.md",
+                        "Voxels.md",
+                        "Terrain.md",
+                        "Shadows.md",
+                        "Vulkan.md",
+                        "Android.md",
+                        "Maths.md",
+                        "Frame Analysis.md",
+                        "Debug.md",
+                        "Lighting.md",
+                        "Render Optimization.md",
+                        "MSAA.md",
+                        "Text Rendering.md",
+                        "Software Renderer.md",
+                        "Particles.md",
+                        "GPU.md",
+                        "OpenGL.md",
+                        "Shaders.md",
+                        "WebGL.md",
+                        "Tilt Shift.md",
+                        "Isometric.md",
+                        "Render Engine.md",
+                        "Skeletal Animation.md"
+                    ]
+                },
+                "files": [
+                    "JSON.md",
+                    "Procedural.md",
+                    "Optimization.md",
+                    "Engine Architecture.md",
+                    "Scripting.md",
+                    "Memory Allocation.md",
+                    "Multitrheading.md",
+                    "ECS.md",
+                    "Multiplayer.md",
+                    "Tech Art.md",
+                    "Strings.md",
+                    "Engines Lists.md",
+                    "Physics.md",
+                    "GUI.md",
+                    "Data Oriented.md",
+                    "SIMD.md",
+                    "Audio.md",
+                    "Assets Loading.md"
+                ]
+            },
+            "Tools": {
+                "files": [
+                    "Assets.md",
+                    "Blender.md",
+                    "UnrealEngine.md",
+                    "Tools.md"
+                ]
+            },
+            "Art": {
+                "files": [
+                    "2D Animation.md",
+                    "Pixel Art.md"
+                ]
+            },
+            "files": [
+                "Career.md",
+                "References.md",
+                "Articles.md",
+                "Community.md"
+            ]
+        }
+    }
+}
